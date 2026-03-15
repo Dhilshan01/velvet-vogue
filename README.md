@@ -1,16 +1,15 @@
 # Velvet Vogue — Rebuilt
 
-A full-stack fashion e-commerce app rebuilt from PHP/MySQL to **React + Tailwind CSS + Node.js + PostgreSQL**.
+A full-stack fashion e-commerce app build with **React + Tailwind CSS + Node.js + PostgreSQL**.
 
 ## Tech Stack
 
-| Layer     | Before         | After                        |
-|-----------|---------------|------------------------------|
-| Frontend  | PHP + raw CSS  | React 18 + Tailwind CSS 3    |
-| Backend   | PHP            | Node.js (Express)            |
-| Database  | MySQL          | PostgreSQL                   |
-| Auth      | Plain-text static check | JWT + bcrypt          |
-| Routing   | File-based PHP | React Router v6              |
+
+| Frontend  | React 18 + Tailwind CSS 3    |
+| Backend   | Node.js (Express)            |
+| Database  | PostgreSQL                   |
+| Auth      | JWT + bcrypt          |
+| Routing   | React Router v6              |
 
 ## Project Structure
 
